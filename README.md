@@ -6,6 +6,7 @@ Repo centralisant ma progression en OSINT
 1. Exercice n°1 : Exploitation de ce [tuto](https://towardsdatascience.com/how-to-use-open-source-satellite-data-for-your-investigative-reporting-d662cb1f9f90) Geosint :
 
 [![Generic badge](https://img.shields.io/badge/Progression-95/100-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Bloqué-erreur_code-red.svg)](https://shields.io/)
 
 Ressources : 
 - [sentinel-hub.com](https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=41.9&lng=12.5&themeId=DEFAULT-THEME) : site d'images satelites du monde entier sur plusieurs années.
