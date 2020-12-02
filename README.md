@@ -13,4 +13,4 @@ Ressources :
 
 Progression :
 Difficulté à mettre en application la première étape : les feux de forêt son masqués par des nuages / ou ne sont plus accessibles (seules des tranches géographiques sint disponibles).
-L'utilisation de l'api sentinel-hub via python marche très bien, des difficultés pour entamer le dernier tp. Un problème avec un import de sentinel-hub.
+L'utilisation de l'api sentinel-hub via python marche très bien, mais il y a des difficultés pour finir le dernier tp. Il apparaît que l'objet `VectorToRaster` est mal initialisé (peut-être que le code de eolearn a changé entre temps). De plus, le repo source n'est plus disponible. Bref après plusieurs tentatives infructueuses, je repasse sur un autre projet dans la même veine. Le code corrigé est dispo sous la version v3.
