@@ -12,5 +12,5 @@ Ressources :
 - [librairie eo-learn](https://medium.com/sentinel-hub/introducing-eo-learn-ab37f2869f5c) : librairie python pour converser avec l'api sentinel-hub.
 
 Progression :
-Difficulté à mettre en application la première étape : les feux de forêt son amsqués par des nuages / ou ne sont plus accessibles (seules des tranches géographiques sint disponibles).
-La mise en application des schémas de réserves d'eau ne m'intéresse pas. Je pars donc sur la localisation de sites militaires (en espérant que la précision des images soit suffisante).
+Difficulté à mettre en application la première étape : les feux de forêt son masqués par des nuages / ou ne sont plus accessibles (seules des tranches géographiques sint disponibles).
+L'utilisation de l'api sentinel-hub via python marche très bien, le script de mise en application pour la reconnaissance de forme plante à cause d'une version de numpy (voir le fichier jupyter uploaded).
