@@ -1,2 +1,2 @@
-# osint_padawan
+# OSINT Padawan Training
 Repo centralisant ma progression en OSINT
