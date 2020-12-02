@@ -19,3 +19,24 @@ L'utilisation de l'api sentinel-hub via python marche très bien, mais il y a de
 2. Exercice n°2 via ce [tuto](https://towardsdatascience.com/whats-growing-there-a5618a2e6933)
 
 3. Exercice n°3 : regarder également ce [tuto](https://medium.com/sentinel-hub/land-cover-classification-with-eo-learn-part-1-2471e8098195)
+
+## TheHarvester
+
+
+Exercice : ce [tuto](https://null-byte.wonderhowto.com/how-to/scrape-target-email-addresses-with-theharvester-0176307/)
+
+
+[![Generic badge](https://img.shields.io/badge/Progression-Terminé-green.svg)](https://shields.io/)
+
+Utilisation simple de recherche sur différentes plateformes et possibilité de retourner les résulats dans un .txt ou html. Utilisation également de recherche dns.
+Problèmes rencontrés : TheHarvester est blocké par google (*Google is blocking your ip and the workaround*) et il faut des clefs d'api pour bing, github, shodan..
+
+## Infoga
+
+[![Generic badge](https://img.shields.io/badge/Progression-Terminé-green.svg)](https://shields.io/)
+
+Outil plus puissant semble il que TheHarvester mais accomplit la même tâche tout en cherchant en plus sur les sites de leaks.
+
+## Suite : regader ce [lien](https://www.lemondeinformatique.fr/actualites/lire-8-outils-osint-pour-le-cyber-renseignement-80484.html)
+
+A creuser : recon-ng, maltego, metagoofil, spiderfoot et babelx
