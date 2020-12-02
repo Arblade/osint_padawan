@@ -13,4 +13,4 @@ Ressources :
 
 Progression :
 Difficulté à mettre en application la première étape : les feux de forêt son masqués par des nuages / ou ne sont plus accessibles (seules des tranches géographiques sint disponibles).
-L'utilisation de l'api sentinel-hub via python marche très bien, le script de mise en application pour la reconnaissance de forme plante à cause d'une version de numpy (voir le fichier jupyter uploaded).
+L'utilisation de l'api sentinel-hub via python marche très bien, des difficultés pour entamer le dernier tp. Un problème avec un import de sentinel-hub.
