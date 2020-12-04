@@ -30,24 +30,25 @@ Exercice : ce [tuto](https://null-byte.wonderhowto.com/how-to/scrape-target-emai
 
 Utilisation simple de recherche sur différentes plateformes et possibilité de retourner les résulats dans un .txt ou html. Utilisation également de recherche dns.
 Problèmes rencontrés : TheHarvester est blocké par google (*Google is blocking your ip and the workaround*) et il faut des clefs d'api pour bing, github, shodan..
+Via le terminal.
 
 ## Infoga
 
 [![Generic badge](https://img.shields.io/badge/Progression-Terminé-green.svg)](https://shields.io/)
 
-Outil plus puissant semble il que TheHarvester mais accomplit la même tâche tout en cherchant en plus sur les sites de leaks.
+Outil plus puissant semble il que TheHarvester mais accomplit la même tâche tout en cherchant en plus sur les sites de leaks.Via le terminal.
 
 ## Maltego
 
 [![Generic badge](https://img.shields.io/badge/Progression-Terminé-green.svg)](https://shields.io/)
 
-Outil puissant mais payant pour devenir intéressant dans la recherche de personne. Pour le reste et notamment la recherche réseau cea permet d'avoir une vue graphique efficace de scans menés automatiquements. Attention, bien veiller à rajouter les extensions après l'installation.
+Interface graphique. Outil puissant mais payant pour devenir intéressant dans la recherche de personne. Pour le reste et notamment la recherche réseau cea permet d'avoir une vue graphique efficace de scans menés automatiquements. Attention, bien veiller à rajouter les extensions après l'installation.
 
 ## Spiderfoot
 
 [![Generic badge](https://img.shields.io/badge/Progression-Terminé-green.svg)](https://shields.io/)
 
-Fonctionne via une page web créée en local. L'interface est bien faite, mais les focntionnailités et les résultats restent limités par rapport à la version gratuite de maltego, même si certains résultats sont uniques par raport à cette dernière plateforme. L'utilisation est aussi plus simple et plus directe.
+Fonctionne via une page web créée en local (ou en ligne de commande). L'interface est bien faite, mais les focntionnailités et les résultats restent limités par rapport à la version gratuite de maltego, même si certains résultats sont uniques par raport à cette dernière plateforme. L'utilisation est aussi plus simple et plus directe.
 
 ## Suite : regader ce [lien](https://www.lemondeinformatique.fr/actualites/lire-8-outils-osint-pour-le-cyber-renseignement-80484.html)
 
