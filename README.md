@@ -50,6 +50,16 @@ Interface graphique. Outil puissant mais payant pour devenir intéressant dans l
 
 Fonctionne via une page web créée en local (ou en ligne de commande). L'interface est bien faite, mais les focntionnailités et les résultats restent limités par rapport à la version gratuite de maltego, même si certains résultats sont uniques par raport à cette dernière plateforme. L'utilisation est aussi plus simple et plus directe.
 
+## Recon-ng
+
+Via le Terminal. 
+Ressources importantes : 
+
+- [cheat_sheet](https://www.blackhillsinfosec.com/wp-content/uploads/2019/11/recon-ng-5.x-cheat-sheet-Sheet1-1.pdf)
+- [article](https://holisticinfosec.io/toolsmith/pdf/may2013.pdf)
+- [wiki](https://github.com/lanmaster53/recon-ng/wiki)
+
 ## Suite : regader ce [lien](https://www.lemondeinformatique.fr/actualites/lire-8-outils-osint-pour-le-cyber-renseignement-80484.html)
 
 A creuser : recon-ng, maltego, metagoofil, spiderfoot et babelx
+[recon_ng_link_1](http://quack1.me/recon-ng.html)
