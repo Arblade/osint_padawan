@@ -37,6 +37,12 @@ Problèmes rencontrés : TheHarvester est blocké par google (*Google is blockin
 
 Outil plus puissant semble il que TheHarvester mais accomplit la même tâche tout en cherchant en plus sur les sites de leaks.
 
+## Maltego
+
+[![Generic badge](https://img.shields.io/badge/Progression-Terminé-green.svg)](https://shields.io/)
+
+Outil puissant mais payant pour devenir intéressant dans la recherche de personne. Pour le reste et notamment la recherche réseau cea permet d'avoir une vue graphique efficace de scans menés automatiquements.
+
 ## Suite : regader ce [lien](https://www.lemondeinformatique.fr/actualites/lire-8-outils-osint-pour-le-cyber-renseignement-80484.html)
 
 A creuser : recon-ng, maltego, metagoofil, spiderfoot et babelx
