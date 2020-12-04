@@ -58,6 +58,7 @@ Ressources importantes :
 - [cheat_sheet](https://www.blackhillsinfosec.com/wp-content/uploads/2019/11/recon-ng-5.x-cheat-sheet-Sheet1-1.pdf)
 - [article](https://holisticinfosec.io/toolsmith/pdf/may2013.pdf)
 - [wiki](https://github.com/lanmaster53/recon-ng/wiki)
+- [update 5.x](https://www.blackhillsinfosec.com/whats-changed-in-recon-ng-5x/)
 
 ## Suite : regader ce [lien](https://www.lemondeinformatique.fr/actualites/lire-8-outils-osint-pour-le-cyber-renseignement-80484.html)
 
