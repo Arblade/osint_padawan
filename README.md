@@ -41,7 +41,13 @@ Outil plus puissant semble il que TheHarvester mais accomplit la même tâche to
 
 [![Generic badge](https://img.shields.io/badge/Progression-Terminé-green.svg)](https://shields.io/)
 
-Outil puissant mais payant pour devenir intéressant dans la recherche de personne. Pour le reste et notamment la recherche réseau cea permet d'avoir une vue graphique efficace de scans menés automatiquements.
+Outil puissant mais payant pour devenir intéressant dans la recherche de personne. Pour le reste et notamment la recherche réseau cea permet d'avoir une vue graphique efficace de scans menés automatiquements. Attention, bien veiller à rajouter les extensions après l'installation.
+
+## Spiderfoot
+
+[![Generic badge](https://img.shields.io/badge/Progression-Terminé-green.svg)](https://shields.io/)
+
+Fonctionne via une page web créée en local. L'interface est bien faite, mais les focntionnailités et les résultats restent limités par rapport à la version gratuite de maltego, même si certains résultats sont uniques par raport à cette dernière plateforme. L'utilisation est aussi plus simple et plus directe.
 
 ## Suite : regader ce [lien](https://www.lemondeinformatique.fr/actualites/lire-8-outils-osint-pour-le-cyber-renseignement-80484.html)
 
