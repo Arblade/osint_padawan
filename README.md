@@ -59,8 +59,9 @@ Ressources importantes :
 - [article](https://holisticinfosec.io/toolsmith/pdf/may2013.pdf)
 - [wiki](https://github.com/lanmaster53/recon-ng/wiki)
 - [update 5.x](https://www.blackhillsinfosec.com/whats-changed-in-recon-ng-5x/)
+- [recon_ng_tuto](http://quack1.me/recon-ng.html)
 
-## Suite : regader ce [lien](https://www.lemondeinformatique.fr/actualites/lire-8-outils-osint-pour-le-cyber-renseignement-80484.html)
+## Suite TODO :
 
-A creuser : recon-ng, maltego, metagoofil, spiderfoot et babelx
-[recon_ng_link_1](http://quack1.me/recon-ng.html)
+babelx
+
