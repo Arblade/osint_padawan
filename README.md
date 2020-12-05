@@ -20,6 +20,10 @@ L'utilisation de l'api sentinel-hub via python marche très bien, mais il y a de
 
 3. Exercice n°3 : regarder également ce [tuto](https://medium.com/sentinel-hub/land-cover-classification-with-eo-learn-part-1-2471e8098195)
 
+[![Generic badge](https://img.shields.io/badge/Progression-10/100-blue.svg)](https://shields.io/)
+
+Notes disponibles dans le fichier `GOINT_Sprint.md`
+
 ## TheHarvester
 
 
